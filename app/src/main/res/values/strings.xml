@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlexboxLayout</string>
+    <string name="test_text_10_char" translatable="false">Lorem Ipsum</string>
+    <string name="test_text_15_char" translatable="false">Lorem Ipsum is s</string>
+    <string name="test_text_20_char" translatable="false">Lorem Ipsum is simply</string>
+    <string name="test_text_25_char" translatable="false">Lorem Ipsum is simply dummy</string>
+    <string name="test_text_30_char" translatable="false">Lorem Ipsum is simply dummy text</string>
+    <string name="test_text_40_char" translatable="false">Lorem Ipsum is simply dummy text of the pr</string>
+    <string name="test_text_50_char" translatable="false">Lorem Ipsum is simply dummy text of the printing and</string>
+    <string name="test_text_60_char" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetti</string>
+    <string name="test_text_70_char" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+    <string name="test_text_long" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="test_text_short" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>
